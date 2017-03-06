@@ -1,0 +1,7 @@
+\\Mac\Home\Downloads\palindromo\palindromo\bin\Debug\palindromo.dll
+\\Mac\Home\Downloads\palindromo\palindromo\bin\Debug\palindromo.pdb
+\\Mac\Home\Downloads\palindromo\palindromo\bin\Debug\nunit.framework.dll
+\\Mac\Home\Downloads\palindromo\palindromo\bin\Debug\nunit.framework.xml
+\\Mac\Home\Downloads\palindromo\palindromo\obj\Debug\palindromo.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\palindromo\palindromo\obj\Debug\palindromo.dll
+\\Mac\Home\Downloads\palindromo\palindromo\obj\Debug\palindromo.pdb
