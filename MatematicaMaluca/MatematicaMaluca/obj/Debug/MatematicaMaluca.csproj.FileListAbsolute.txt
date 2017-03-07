@@ -1,0 +1,7 @@
+\\Mac\Home\Downloads\MatematicaMaluca\MatematicaMaluca\bin\Debug\MatematicaMaluca.dll
+\\Mac\Home\Downloads\MatematicaMaluca\MatematicaMaluca\bin\Debug\MatematicaMaluca.pdb
+\\Mac\Home\Downloads\MatematicaMaluca\MatematicaMaluca\bin\Debug\nunit.framework.dll
+\\Mac\Home\Downloads\MatematicaMaluca\MatematicaMaluca\bin\Debug\nunit.framework.xml
+\\Mac\Home\Downloads\MatematicaMaluca\MatematicaMaluca\obj\Debug\MatematicaMaluca.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\MatematicaMaluca\MatematicaMaluca\obj\Debug\MatematicaMaluca.dll
+\\Mac\Home\Downloads\MatematicaMaluca\MatematicaMaluca\obj\Debug\MatematicaMaluca.pdb
